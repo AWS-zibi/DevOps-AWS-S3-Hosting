@@ -78,7 +78,5 @@ No backend or server is required since it is fully static.
 
 
 ### AWS S3 Hosting Flow Diagram
+![Uploading ChatGPT Image Oct 16, 2025, 01_04_26 PM.png…]()
 
-
-
-<img width="1024" height="1536" alt="ChatGPT Image Oct 16, 2025, 01_04_26 PM" src="https://github.com/user-attachments/assets/1cd2d65a-eddc-4b17-8916-7a21b53ac23c" />
