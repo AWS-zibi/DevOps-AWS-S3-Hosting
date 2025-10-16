@@ -1,7 +1,7 @@
 
 # AWS S3 Static Website Hosting
 
-![AWS Logo](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
+![AWS Cloud Icon](https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg)
 
 ## Project Overview
 
