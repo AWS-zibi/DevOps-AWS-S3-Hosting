@@ -1,7 +1,7 @@
 
 # AWS S3 Static Website Hosting
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Cloud Icon" width="150" height="150">
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS Cloud Icon" width="550" height="650">
 
 
 ## Project Overview
@@ -77,6 +77,6 @@ No backend or server is required since it is fully static.
 
 
 ### AWS S3 Hosting Flow Diagram
-<img width="500" height="536" alt="s3-flow-project" src="https://github.com/user-attachments/assets/418e0c75-617b-4138-bdb1-0d0c2b621c44" />
+<img width="530" height="636" alt="s3-flow-project" src="https://github.com/user-attachments/assets/418e0c75-617b-4138-bdb1-0d0c2b621c44" />
 
 
