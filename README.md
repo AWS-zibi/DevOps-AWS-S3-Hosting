@@ -36,8 +36,6 @@ DevOps-AWS-S3-Hosting/
 
 ## Screenshots
 
-> Replace these images with your actual website screenshots
-
 
 ![Homepage Screenshot]{<img width="1762" height="982" alt="Screenshot from 2025-10-16 13-23-55" src="https://github.com/user-attachments/assets/640d9712-fd3a-42cd-8cb6-1dfb8862283a" />}
 ---
