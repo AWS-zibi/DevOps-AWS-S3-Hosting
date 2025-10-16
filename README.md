@@ -57,7 +57,7 @@ DevOps-AWS-S3-Hosting/
 
 ### 3️⃣ Upload Your Files
 - Using AWS CLI:
-```bash
+
 aws s3 sync . s3://hosting-project-website --acl public-read
 
 
@@ -65,8 +65,6 @@ aws s3 sync . s3://hosting-project-website --acl public-read
 
 Visit the S3 static website URL:
 http://hosting-project-website.s3-website-us-east-1.amazonaws.com
-
-
 
 Notes
 
@@ -77,6 +75,7 @@ For automation, you can integrate GitHub Actions or CI/CD pipelines.
 No backend or server is required since it is fully static.
 
 
-### AWS S3 Hosting Flow Diagram<img width="1024" height="1536" alt="s3-flow-project" src="https://github.com/user-attachments/assets/418e0c75-617b-4138-bdb1-0d0c2b621c44" />
+### AWS S3 Hosting Flow Diagram
+<img width="1024" height="1536" alt="s3-flow-project" src="https://github.com/user-attachments/assets/418e0c75-617b-4138-bdb1-0d0c2b621c44" />
 
 
