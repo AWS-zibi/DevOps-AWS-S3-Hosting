@@ -37,8 +37,7 @@ DevOps-AWS-S3-Hosting/
 
 > Replace these images with your actual website screenshots
 
-![Homepage Screenshot](images/screenshot-home.png)  
-![Responsive View Screenshot](images/screenshot-responsive.png)
+![Homepage Screenshot](<img width="1762" height="982" alt="image" src="https://github.com/user-attachments/assets/6b2949ca-bee8-477d-9e1d-8b982f1bf336" />)  
 
 ---
 
