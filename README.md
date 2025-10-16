@@ -37,8 +37,8 @@ DevOps-AWS-S3-Hosting/
 
 > Replace these images with your actual website screenshots
 
-![Homepage Screenshot](<img width="1762" height="982" alt="image" src="https://github.com/user-attachments/assets/6b2949ca-bee8-477d-9e1d-8b982f1bf336" />)  
 
+![Homepage Screenshot]{<img width="1762" height="982" alt="Screenshot from 2025-10-16 13-23-55" src="https://github.com/user-attachments/assets/640d9712-fd3a-42cd-8cb6-1dfb8862283a" />}
 ---
 
 ## Step-by-Step Deployment Guide
@@ -79,4 +79,6 @@ No backend or server is required since it is fully static.
 
 ### AWS S3 Hosting Flow Diagram
 
-<img width="1024" height="1536" alt="ChatGPT Image Oct 16, 2025, 01_04_26 PM" src="https://github.com/user-attachments/assets/abc80db9-bcf8-4806-a78a-10bb33ee5f82" />
+
+
+<img width="1024" height="1536" alt="ChatGPT Image Oct 16, 2025, 01_04_26 PM" src="https://github.com/user-attachments/assets/1cd2d65a-eddc-4b17-8916-7a21b53ac23c" />
