@@ -69,7 +69,6 @@ http://hosting-project-website.s3-website-us-east-1.amazonaws.com
 ## Notes
 
 This project demonstrates manual static hosting.
-For automation, you can integrate GitHub Actions or CI/CD pipelines.
 No backend or server is required since it is fully static.
 
 
