@@ -77,6 +77,6 @@ For automation, you can integrate GitHub Actions or CI/CD pipelines.
 No backend or server is required since it is fully static.
 
 
-### AWS S3 Hosting Flow Diagram
-![Uploading ChatGPT Image Oct 16, 2025, 01_04_26 PM.png…]()
+### AWS S3 Hosting Flow Diagram<img width="1024" height="1536" alt="s3-flow-project" src="https://github.com/user-attachments/assets/418e0c75-617b-4138-bdb1-0d0c2b621c44" />
+
 
